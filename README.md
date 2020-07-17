@@ -1,4 +1,5 @@
-[![Twitter Badge](https://img.shields.io/badge/-@KelynNjeri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelynNjeri)](https://twitter.com/KelynNjeri) [![Linkedin Badge](https://img.shields.io/badge/-KelynPaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelyn-paul/)](https://www.linkedin.com/in/kelyn-paul/) 
+[![Twitter Badge](https://img.shields.io/badge/-@KelynNjeri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelynNjeri)](https://twitter.com/KelynNjeri) 
+[![Linkedin Badge](https://img.shields.io/badge/-KelynPaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelyn-paul/)](https://www.linkedin.com/in/kelyn-paul/) 
 [![Gmail Badge](https://img.shields.io/badge/-kelynpaul20.kp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelynpaul20.kp@gmail.com)](mailto:kelynpaul20.kp@gmail.com)
 
 
