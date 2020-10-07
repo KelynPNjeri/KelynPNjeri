@@ -15,4 +15,5 @@ I mostly work with Python as a backend language and my main stack is `Python/Fla
 - 😄 Pronouns: He/Him
 - ⚡ Languages: Python, Ruby, Golang, Java, JS
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelynPNjeri&layout=compact&theme=vue" /> <br/> 
 ![Kelyn's github stats](https://github-readme-stats.vercel.app/api?username=KelynPNjeri&show_icons=true&hide_border=true)
